@@ -4,7 +4,7 @@ import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.*;
 
-public class HomeWork extends TestBase{
+public class HomeWorkTest extends TestBase{
 
     @Test
     void practiceFormTest(){
